@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This comprehensive data analytics project demonstrates advanced proficiency in **SQL**, **Excel**, **Power BI**, and **Tableau** through a deep-dive analysis of pizza sales performance. By transforming raw transactional data into actionable business intelligence, the project uncovers revenue drivers, customer behavior patterns, and optimization opportunities for a pizza restaurant chain.
+This comprehensive data analytics project demonstrates advanced proficiency in **SQL**, **Excel**, **Power BI**, and **Tableau** through a deep-dive analysis of pizza sales performance. By transforming raw transactional data into actionable business intelligence, the project uncovers revenue drivers, customer behavior patterns, and optimization opportunities for a pizza restaurant chain
 
 **Live Dashboards & Assets:**
 - **[SQL Queries Repository](https://github.com/ekaterinakham/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project)**
